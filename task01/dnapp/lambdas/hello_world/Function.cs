@@ -14,8 +14,7 @@ public class Function
         return new APIGatewayProxyResponse
         {
             StatusCode = 200,
-            Body = "\"{\\\"statusCode\\\":200,\\\"message\\\":\\\"HellofromLambda\\\"}\"",
-            Headers = new Dictionary<string, string> { { "Content-Type", "text/plain" } }
+            Body = "{\"message\": \"Hello from Lambda\"}"
         };
     }
 }
