@@ -14,7 +14,7 @@ public class Function
         return new APIGatewayProxyResponse
         {
             StatusCode = 200,
-            Body = "{\"message\": \"Hello from Lambda\"}"
+            Body = "Hello from Lambda"
         };
     }
 }
