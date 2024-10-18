@@ -11,8 +11,12 @@ namespace SimpleLambdaFunction;
 
 public class Function
 {
-    public string FunctionHandler(APIGatewayProxyRequest request, ILambdaContext context)
+    public LambdaResponse FunctionHandler(APIGatewayProxyRequest request, ILambdaContext context)
     {
-        return @"{""statusCode"": 200,""message"": ""Hello from Lambda""}";
+        return new LambdaResponse
+        {
+            statusCode = 200,
+            message = "Hello from Lambda"
+        };
     }
 }
