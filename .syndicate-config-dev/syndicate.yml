@@ -1,0 +1,17 @@
+account_id: '905418349556'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-sbox02/46675425/task02
+extended_prefix_mode: true
+iam_permissions_boundary: arn:aws:iam::905418349556:policy/eo_role_boundary
+project_path: C:\Code\AWS Serverless\Projects\aws-serverless\task02
+region: eu-central-1
+resources_prefix: cmtr-46675425-
+tags:
+  course_id: SEP_GL_5
+  course_type: stm
+  student_id: '46675425'
+  type: student
+expiration: 2024-10-25T07:57:50+00:00
+temp_aws_access_key_id: ASIA5FTZDTP2PD3QYZIE
+temp_aws_secret_access_key: bjyzTZ0qdnVUjQpAThcgILSDdwER8bdI8/wE5ywj
+temp_aws_session_token: IQoJb3JpZ2luX2VjEH8aCXVzLWVhc3QtMSJHMEUCIASopZx6kHFZjKe3w1nqjlcVFF8+GFQNLk003DldjFyoAiEA4gK7fxCX2loe1Ejm3jTiqPot+ZURODXEzWinwAXzKBIq9AII6P//////////ARAAGgw5MDU0MTgzNDk1NTYiDBsmt3cCY/zje5KN/irIAnomlVvpiRKGYzqfTfA8+XfixBg5dc9ZDOvU/bd68HJbYl48YSpcHkImMJ5SUWrQacxIwkUh8tXNI/hQHftw0STfpn+OYynaGUl3FHrIVtsftB22l5EDKSC+Gwdls/0TSRRFtWC6+3kwqn1cgRS+5K3MZ++fsP+UcUp1gERkmd5WU+NGCIURwrVNlj/6w2281pSE9sd2ZmUQnx25Bm5HxuJemYPE/MyeauqcZET52ATfDLT3RFXE6hIKxLdT/Tjfg9tMiVDYwQxoaubZVj+o7k3+i1b4y7XPjuVJTX5av/F5mFXk3WYZWzgYJsuPoYJMJedKOPLCRSpletH+t6auLmqZyENR6OgzsqgTVu435jP9Tm95gXChxEjjIHsnO5ZLnyt7iBBtGphmx9As1DZe9Hi85jcGqYKQvHdLDa8TAYhpltBfjQadZ+Qw7oLtuAY6nQEb8/5lEJ/MrJIsAMUhNu8J2cc8pZlh1hQNLpxbgI32LVLjV1RX5cEy+CDh0AYL+PQZG8uQ7IzESUghzzOovB1vVSP2kK0oqFOhciWoXhK7ep1w/Bf5nTZNsGdZstIpGUDS9SRGvmbkLpisZMxFaSErQEOnwoZvCLMDho/RgpGoHICEILcu4vsr6LVMzHH14kMYgpGZCcvD3yMtQ4Wf
+use_temp_creds: false
