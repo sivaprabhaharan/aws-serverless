@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.syndicate-config-dev/bundles
+/.syndicate-config-dev/logs
+/task02/dnapp/lambdas/hello_world/.vs
+/task02/dnapp/lambdas/hello_world/obj/Debug/net8.0
